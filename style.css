@@ -11,6 +11,10 @@
     color: white;
 }
 
+.fav-bg-dark {
+    background-color: rgba(244, 165, 96, 0.185);
+}
+
 .fav-bg:hover {
     color: #FABE4C;
     font-size: 1.2em;
