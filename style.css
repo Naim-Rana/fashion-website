@@ -1,0 +1,13 @@
+.fav-color {
+    color: #FABE4C;
+}
+
+.fav-bg {
+    background-color: navy;
+    color: white;
+}
+
+.fav-bg:hover {
+    color: #FABE4C;
+    font-size: 1.2em;
+}
