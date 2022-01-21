@@ -2,6 +2,10 @@
     color: #FABE4C;
 }
 
+.fav-info {
+    background-color: rgba(177, 167, 167, 0.322);
+}
+
 .fav-bg {
     background-color: navy;
     color: white;
